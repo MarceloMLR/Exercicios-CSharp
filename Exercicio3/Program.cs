@@ -5,7 +5,7 @@ class Program
     static void Main()
     {
         double numero1 = 25.00;
-        double numero2 = 50.00;
+        double numero2 = 0;
 
         var operacoesMatematicas = new OperacoesMatematicas(); 
 
